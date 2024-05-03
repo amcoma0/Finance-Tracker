@@ -1,0 +1,5 @@
+SmartOffice,100000.0
+DataGaurdian,1500000.0
+EcoTrack,650000.0
+HealthSphere,2000000.0
+VirtualEmpower,3450000.0
